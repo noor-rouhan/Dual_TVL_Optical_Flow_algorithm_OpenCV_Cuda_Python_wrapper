@@ -46,5 +46,3 @@ Credits
 ----------------
 Original code: https://github.com/Algomorph/pyboostcvconverter
 [Yati Sagade's example](https://github.com/yati-sagade/blog-content/blob/master/content/numpy-boost-python-opencv.rst).
-# Dual_TVL_Optical_Flow_algorithm_OpenCV_Cuda_Python_wrapper
-# Dual_TVL_Optical_Flow_algorithm_OpenCV_Cuda_Python_wrapper
