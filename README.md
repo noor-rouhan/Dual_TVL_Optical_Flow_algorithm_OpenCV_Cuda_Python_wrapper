@@ -23,7 +23,8 @@ Compatibility
 This code is compatible with OpenCV 2.X, 3.X, and 4.X.
 This code supports Python 2.7 and Python 3.X. => You can pick one by passing `-DPYTHON_DESIRED_VERSION=3.X` or `=2.X` to cmake.
 Boost library is needed.
-```sudo apt-get install libboost-all-dev
+```
+sudo apt-get install libboost-all-dev
 ```
 
 Compiling & Trying Out Sample Code
